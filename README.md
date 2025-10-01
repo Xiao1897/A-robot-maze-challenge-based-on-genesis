@@ -43,3 +43,14 @@ python maze_navigation_urdf_demo.py
 
 A*算法动态演示
 ![](./figure/1.gif?msec=1759325406919)
+
+# 小车模型介绍
+## 关节
+base_link（车架）
+形状：长方体（0.5m × 0.3m × 0.1m）
+质量：20 kg
+惯性矩阵：对称分布，适用于均匀密度长方体
+<img width="799" height="216" alt="image" src="https://github.com/user-attachments/assets/912b0067-5894-4b0e-9a0a-3f01ae29f8d0" />
+![](./figure/4.png?msec=1759325406919)
+
+
